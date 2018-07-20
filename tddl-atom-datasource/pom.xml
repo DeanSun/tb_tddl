@@ -12,7 +12,7 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>${pom.groupId}</groupId>
+			<groupId>${project.groupId}</groupId>
 			<artifactId>tddl-common</artifactId>
 		</dependency>
 		<dependency>
